@@ -4,6 +4,7 @@ Welcome to the Chocolate Factory Dashboard project! This comprehensive dashboard
 ## 
 ![Untitled design (10)](https://github.com/user-attachments/assets/a949401f-2b7d-4ae9-b107-1a1efaf828bc)
 
+Power BI Dashboard: View Live Dashboard ([Example Link](https://app.powerbi.com/groups/me/reports/86dbe518-d7ab-46d7-a307-45b3bb49f5dd/ReportSection87c6c39f3d7818a5b0d1?experience=power-bi))
 
 ## Project Overview
 This project was created to help analyze and visualize key performance indicators (KPIs) across various product lines and regions. The dashboard is built using data visualization techniques that make it easy to understand complex datasets and drive data-driven decision-making.
