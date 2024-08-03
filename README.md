@@ -1,32 +1,75 @@
-# Chocolate Factory Dashboard 📊🍫
-Welcome to the Chocolate Factory Dashboard project! This comprehensive dashboard provides detailed insights into the Chocolate Factory's performance from February 2023 to February 2024, focusing on key metrics like sales, costs, shipments, and profits.
+# Chocolate Factory Dashboard
 
-## 
-![Untitled design (10)](https://github.com/user-attachments/assets/a949401f-2b7d-4ae9-b107-1a1efaf828bc)
+This repository contains the Power BI dashboard project focused on analyzing key performance metrics in the chocolate industry. The dashboard provides insights into sales, costs, profit margins, and shipment efficiency.
 
-Power BI Dashboard: View Live Dashboard ([Example Link](https://app.powerbi.com/groups/me/reports/86dbe518-d7ab-46d7-a307-45b3bb49f5dd/ReportSection87c6c39f3d7818a5b0d1?experience=power-bi))
+![6](https://github.com/user-attachments/assets/0892257b-3134-49de-9440-3738c116ea72)
 
-## Project Overview
-This project was created to help analyze and visualize key performance indicators (KPIs) across various product lines and regions. The dashboard is built using data visualization techniques that make it easy to understand complex datasets and drive data-driven decision-making.
 
-### Features
-⦿ Total Sales Analysis: $34M total sales with product-level breakdowns.
+## 📊 Dashboard Access
 
-⦿ Profit and Cost Tracking: Insights into costs and profitability to optimize financial performance.
+- **Power BI Dashboard**: [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmYwZTVmMzAtZTIxNS00YjE4LTg3MWMtMDFhZTIzZGVjOTQ4IiwidCI6IjQyNDUzOGI5LTIwNzctNGRkMC04YmZjLTJlNWMwZTg2N2RhMCIsImMiOjl9)
 
-⦿ Shipment Efficiency: Monitoring Low Box Shipment (LBS) rates and identifying optimization opportunities.
+## 🔍 Key Insights
 
-⦿ Sales Team Performance: Analysis of individual contributions and identifying top performers.
+### 1. Sales Performance
+- **Total Sales**: $34M
+- **Monthly Sales Trend**:
+  - Highest sales month: October 2023 with $3.5M
+  - Lowest sales month: February 2023 with $2.2M
+- **Sales Growth**:
+  - Average monthly sales growth: 3.2%
 
-### How to Use
-⦿ Exploring the Dashboard: Use the filters and navigation options to explore data across different product categories and regions.
+### 2. Shipment Efficiency
+- **Total Shipments**: 6.1K
+- **LBS (Low Box Shipment) Percentage**: 10.2%
+  - Total shipments with fewer than 50 boxes: 623
+- **Shipment Growth**:
+  - Average monthly shipment growth: 2.8%
 
-⦿ Data Insights: Leverage the visualizations to gain insights into sales trends, cost management, and operational efficiency.
+### 3. Cost Management
+- **Total Costs**: $13.5M
+- **Monthly Cost Trend**:
+  - Highest cost month: December 2023 with $1.5M
+  - Lowest cost month: March 2023 with $0.9M
+- **Cost Efficiency**:
+  - Average cost per shipment: $2.21K
 
-⦿ Strategic Planning: Utilize the findings to inform strategic decisions in product development, marketing, and logistics.
+### 4. Profit Analysis
+- **Total Profit**: $20.5M
+- **Profit Margin**: 60.3%
+- **Monthly Profit Trend**:
+  - Highest profit month: November 2023 with $2.1M
+  - Lowest profit month: February 2023 with $1.3M
+- **Profit Growth**:
+  - Average monthly profit growth: 3.5%
 
-### Contributing
-If you're interested in contributing to this project, feel free to fork the repository and submit pull requests. Whether it's improving existing features or adding new ones, your contributions are welcome!
+### 5. Line Chart Analysis
+- **Sales, Boxes, Costs, Shipment, and Profit Trends**:
+  - **Sales**: Show a steady increase with notable peaks in October and December 2023.
+  - **Boxes**: Follow the sales trend closely, with the highest number of boxes shipped in October 2023.
+  - **Costs**: Generally stable but with spikes in December 2023, aligning with increased sales activity.
+  - **Shipments**: Gradual increase over the period with a peak in October 2023.
+  - **Profit**: Consistently high, with the best performance in November 2023.
 
-### Feedback and Contact
-If you have any questions, suggestions, or feedback, please open an issue or contact me directly. I'm always looking to improve and expand the capabilities of this dashboard. For more insights and professional connections, feel free to connect with me on [LinkedIn](linkedin.com/in/vishal-mang-a7983a154).
+### 6. LBS (Low Box Shipment) Percentage Analysis
+- **LBS Percentage**: 10.2%
+  - This metric indicates that 10.2% of the shipments had fewer than 50 boxes.
+  - Helps identify inefficiencies in packing and potential cost-saving opportunities by optimizing shipment sizes.
+
+## 💼 Connect with Me
+
+- **LinkedIn Profile**: [Connect on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+
+## 📝 Special Thanks
+
+Special thanks to Chandoo for the invaluable tutorials and inspiration!
+
+## 📂 Project Files
+
+- `ChocolateFactoryDashboard.pbix`: The Power BI dashboard file.
+- `README.md`: This readme file.
+- `images/`: Directory containing screenshots of the dashboard.
+
+## 🏷️ Tags
+
+#DataAnalytics #PowerBI #DataVisualization #BusinessIntelligence #DashboardDesign #DataScience #Chandoo #DataDriven #DataInsights #LinkedInLearning #GitHubProjects
