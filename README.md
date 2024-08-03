@@ -70,6 +70,6 @@ Special thanks to Chandoo for the invaluable tutorials and inspiration!
 - `README.md`: This readme file.
 - `images/`: Directory containing screenshots of the dashboard.
 
-## 🏷️ Tags
+
 
 #DataAnalytics #PowerBI #DataVisualization #BusinessIntelligence #DashboardDesign #DataScience #Chandoo #DataDriven #DataInsights #LinkedInLearning #GitHubProjects
