@@ -60,9 +60,6 @@ This repository contains the Power BI dashboard project focused on analyzing key
 
 - **LinkedIn Profile**: [Connect on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
-## 📝 Special Thanks
-
-Special thanks to Chandoo for the invaluable tutorials and inspiration!
 
 ## 📂 Project Files
 
